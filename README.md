@@ -1,4 +1,4 @@
-# Recoginition demo app
+# Recognition demo app
 
 ## Overview
 This app is demo application which you can recognize real-timely some specific persion who has specific skills by using AWS rekognition api.
