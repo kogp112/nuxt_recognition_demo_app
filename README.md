@@ -32,5 +32,5 @@ $ npm run generate
  1. Set EC2 for front-end application
  2. Create Lambda functions from 'lambda_functions' folder
  3. Create Endpoint by API Gateway
- 4. Create AppSync task connecting DynamoDB as well create
- 5. Dynamo table
+ 4. Create Dynamo table
+ 5. Create AppSync task connecting DynamoDB
