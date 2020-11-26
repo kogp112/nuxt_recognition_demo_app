@@ -9,8 +9,8 @@ This app is demo application which you can recognize real-timely some specific p
 - EC2: hosting Nuxt.js generated files
 - API GateWay: endpoint for Lambda function
 - Lambda: send images to rekognition api and AppSync
-- AppSync: real-time sending to Dynamo using graphQL
-- Dynamo: store image datas
+- AppSync: real-time send to Dynamo using graphQL
+- Dynamo: store image datas and user information datas
 
 ## Build Setup
 
