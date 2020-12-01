@@ -9,7 +9,7 @@
           <v-list-tile-title>{{ user }}</v-list-tile-title>
         </v-list-tile>
         <v-list-tile class="my-1">
-              <v-btn v-show="hidden" color="orange darken-3" type="button" @click="Start">flont</v-btn>
+              <v-btn v-show="hidden" color="orange darken-3" type="button" @click="Start">front</v-btn>
               <v-btn v-show="!hidden" type="button" @click="Stop">Stop</v-btn>
         </v-list-tile>
 	      <v-list-tile class="my-1">
