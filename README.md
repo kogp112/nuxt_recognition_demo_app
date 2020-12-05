@@ -4,7 +4,7 @@
 This app is demo application which you can recognize real-timely some specific persion who has specific skills by using AWS rekognition api.
 ## Architecture
 
-![Architecture](https://user-images.githubusercontent.com/11176574/100306500-e7085a80-2fe6-11eb-815a-f14304820153.png)
+![Architecture](https://user-images.githubusercontent.com/11176574/101234905-c89d1000-3706-11eb-841f-e6780cf467d0.png)
 
 - EC2: hosting Nuxt.js generated files
 - API GateWay: endpoint for Lambda function
